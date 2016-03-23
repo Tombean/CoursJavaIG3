@@ -4,25 +4,25 @@ public class DVDPlayer implements Player {
 
 	@Override
 	public void play() {
-		// TODO Auto-generated method stub
+		System.out.println("Trala la la la ! ");
 
 	}
 
 	@Override
 	public void stop() {
-		// TODO Auto-generated method stub
+		System.out.println("Chuuuuuuuuut ! ");
 
 	}
 
 	@Override
 	public void pause() {
-		// TODO Auto-generated method stub
+		System.out.println("Et je coupe le son !!! ");
 
 	}
 
 	@Override
 	public void reverse() {
-		// TODO Auto-generated method stub
+		System.out.println("! al al al alarT ");
 
 	}
 
