@@ -1,5 +1,5 @@
 package audio;
 
-public interface Recorder {
+public interface Recorder extends Player {
 	void record();
 }
